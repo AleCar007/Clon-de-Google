@@ -1,0 +1,90 @@
+.Encabezado{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+#link{
+    margin: 5px;
+    padding: 5px;
+    border: 5px;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+}
+
+#botones{
+    display: flex;
+    justify-content: center;
+    border: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+#barra{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+}
+
+#google{
+    height: 250px;
+    width: 450px;
+}
+
+#search{
+    border-left: 10px;
+    border-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.barro{
+    width: 600px;
+    border-radius: 5px;
+}
+
+#info{
+    display: flex;
+    justify-content: center;
+}
+
+.primero{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.segundo{
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer{
+    background: #F2F2F2;
+    width: 100%;
+    height: 20%;
+}
+
+#links{
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#linkss{
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#mexico{
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+}
